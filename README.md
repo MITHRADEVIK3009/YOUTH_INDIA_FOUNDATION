@@ -10,7 +10,7 @@ My work at the Youth India Foundation (YIF) was focused on transforming crucial 
 
 ## Introduction: The Authenticity Behind the Action
 
-This article summarizes the narrative, visual strategy, and intended impact of five key video reels I produced for the Youth India Foundation. These weren't generic "AI-generated" pieces; they were meticulously crafted to reflect the authentic struggles and triumphs YIF champions. From building trust in our organization's capabilities to demanding safety for women, each video was designed to achieve a specific behavioral outcome in the viewer moving them from awareness to active participation. The structure below details the story, the visual choices (like black and white contrast), and the difference each piece aimed to make.
+This article summarizes the narrative, visual strategy, and intended impact of five key video reels I produced for the Youth India Foundation. From building trust in our organization's capabilities to demanding safety for women, each video was designed to achieve a specific behavioral outcome in the viewer moving them from awareness to active participation. The structure below details the story, the visual choices (like black and white contrast), and the difference each piece aimed to make.
 
 ---
 
@@ -149,4 +149,5 @@ What makes this content different is the focus on simplicity and flexibility for
 - **Youth India Foundation Main Website:** https://youthindiafoundation.com/
 - **Youth Tamil Nadu Instagram:** https://www.instagram.com/youthtamilnadu/
 - **Team** https://www.instagram.com/p/C_a3NVUSSkt/?igsh=MWUxdndycjM4aWNhbw==
+- **Time period** 27th July 2025 to 27th September 2024
 ---
