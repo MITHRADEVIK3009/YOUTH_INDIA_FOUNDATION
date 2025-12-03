@@ -2,7 +2,7 @@
 
 ---
 
-My work at the Youth India Foundation (YIF) was focused on transforming crucial social missions into engaging digital content. As a Video Editing Intern within the IT and Graphic Team for the Youth Tamil Nadu wing, my contribution went beyond just editing. I conducted in-depth research for every reel to ensure the highest level of context and accuracy, collaborating with teammates across the country to deliver a unified message. The core of my role was to function as a content strategist—using simple, clear visuals and language to make a real-world difference.
+My work at the Youth India Foundation (YIF) was focused on transforming crucial social missions into engaging digital content. As a Video Editing Intern within the IT and Graphic Team for the Youth Tamil Nadu wing, my contribution went beyond just editing. I conducted in-depth research for every reel to ensure the highest level of context and accuracy, collaborating with teammates across the country to deliver a unified message. The core of my role was to function as a content strategist using simple, clear visuals and language to make a real-world difference.
 
 ![Overview of my work at Youth India Foundation](images/overview.png)
 
@@ -10,7 +10,7 @@ My work at the Youth India Foundation (YIF) was focused on transforming crucial 
 
 ## Introduction: The Authenticity Behind the Action
 
-This article summarizes the narrative, visual strategy, and intended impact of five key video reels I produced for the Youth India Foundation. These weren't generic "AI-generated" pieces; they were meticulously crafted to reflect the authentic struggles and triumphs YIF champions. From building trust in our organization's capabilities to demanding safety for women, each video was designed to achieve a specific behavioral outcome in the viewer—moving them from awareness to active participation. The structure below details the story, the visual choices (like black and white contrast), and the difference each piece aimed to make.
+This article summarizes the narrative, visual strategy, and intended impact of five key video reels I produced for the Youth India Foundation. These weren't generic "AI-generated" pieces; they were meticulously crafted to reflect the authentic struggles and triumphs YIF champions. From building trust in our organization's capabilities to demanding safety for women, each video was designed to achieve a specific behavioral outcome in the viewer moving them from awareness to active participation. The structure below details the story, the visual choices (like black and white contrast), and the difference each piece aimed to make.
 
 ---
 
@@ -59,7 +59,7 @@ This video is a visual manifesto for women's empowerment in tech and business. T
 
 The visual content was structured to show growth and transition:
 
-**The Transition:** The video begins with a young girl to create an immediate connection to potential and future generations. This transitions quickly to images of women involved in varied professional activities—launching startups, presenting in boardrooms, leading design and photography—showing the breadth of female influence.
+**The Transition:** The video begins with a young girl to create an immediate connection to potential and future generations. This transitions quickly to images of women involved in varied professional activities launching startups, presenting in boardrooms, leading design and photography showing the breadth of female influence.
 
 **The Role Models:** I strategically involved specific, powerful Indian women:
 
@@ -70,7 +70,7 @@ The visual content was structured to show growth and transition:
 
 ### What We Aimed to Achieve
 
-We aimed to provide tangible, relatable examples for future generations. By celebrating these powerful women, the video makes the ambition to lead in any sector—tech, finance, or business—feel completely attainable. The video's difference lies in changing the narrative from "if" women can lead to "how" they are leading right now.
+We aimed to provide tangible, relatable examples for future generations. By celebrating these powerful women, the video makes the ambition to lead in any sector tech, finance, or business feel completely attainable. The video's difference lies in changing the narrative from "if" women can lead to "how" they are leading right now.
 
 ---
 
@@ -90,7 +90,7 @@ The visual strategy used strong contrast for emotional impact:
 
 ### What We Aimed to Achieve
 
-The main goal was to mobilize young people beyond passive sympathy. By focusing on the porattam—the physical act of protest and resistance—we aim to channel anger and sadness into organized action. The difference this video makes is in turning a sensitive and often avoided topic into a clear call for collective civic responsibility and participation in YIF's women-centric programs.
+The main goal was to mobilize young people beyond passive sympathy. By focusing on the porattam the physical act of protest and resistance we aim to channel anger and sadness into organized action. The difference this video makes is in turning a sensitive and often avoided topic into a clear call for collective civic responsibility and participation in YIF's women-centric programs.
 
 ---
 
@@ -138,7 +138,7 @@ The goal was to make urban planning and sustainability a relevant and inspiring 
 
 ## Conclusion: The Difference My Work Makes in YIF
 
-My journey with the Youth India Foundation-working across the IT and Graphic teams, especially reporting to the Youth Tamil Nadu team—has been about bridging the gap between mission and audience. 
+My journey with the Youth India Foundation-working across the IT and Graphic teams, especially reporting to the Youth Tamil Nadu team has been about bridging the gap between mission and audience. 
 
 What makes this content different is the focus on simplicity and flexibility for the second person (the viewer). By sticking to clear, direct messaging, we ensure maximum comprehension and shareability. The extensive research I conducted for each sensitive topic (Nirbhaya, Aarthi, etc.) ensured that the emotional appeal was always grounded in factual context, protecting YIF's reputation while maximizing empathy. This strategic approach to content creation-where every reel is a product with a defined outcome-is what drives the difference in YIF's engagement and success.
 
