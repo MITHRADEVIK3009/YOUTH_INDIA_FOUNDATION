@@ -78,7 +78,7 @@ We aimed to provide tangible, relatable examples for future generations. By cele
 
 ### The Story Behind the Video
 
-This reel addresses the difficult reality of women's safety in India. The narrative is structured to validate fear, contextualize the crisis, and then aggressively pivot to collective power. I made sure to include direct references to high-profile cases like Nirbhaya and Aarthi to underscore the urgency and reality of the issue, turning abstract awareness into grounded context. We emphasize the porattam (protest/struggle) done by the people and the medical community.
+This reel addresses the difficult reality of women's safety in India. The narrative is structured to validate fear, contextualize the crisis, and then aggressively pivot to collective power. I made sure to include direct references to high-profile cases like Nirbhaya and Aarthi to underscore the urgency and reality of the issue, turning abstract awareness into grounded context. We emphasize the protest/struggle done by the people and the medical community.
 
 ### The Visual Content
 
@@ -90,7 +90,7 @@ The visual strategy used strong contrast for emotional impact:
 
 ### What We Aimed to Achieve
 
-The main goal was to mobilize young people beyond passive sympathy. By focusing on the porattam the physical act of protest and resistance we aim to channel anger and sadness into organized action. The difference this video makes is in turning a sensitive and often avoided topic into a clear call for collective civic responsibility and participation in YIF's women-centric programs.
+The main goal was to mobilize young people beyond passive sympathy. By focusing on the physical act of protest and resistance we aim to channel anger and sadness into organized action. The difference this video makes is in turning a sensitive and often avoided topic into a clear call for collective civic responsibility and participation in YIF's women-centric programs.
 
 ---
 
